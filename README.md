@@ -24,6 +24,17 @@ detection-as-code: Wireshark → Zeek/Suricata → Suricata/YARA/Sigma rules.
 
 ---
 
+---
+
+## Achievements
+
+| Year | Achievement |
+|---|---|
+| 2026 | 🏆 Winner — Sber LLM Hackathon |
+| 2026 | 7th place — AltayCTF (attack-defense) |
+
+---
+
 ## Planned stack
 
 **Traffic & packets:** Wireshark · tshark · scapy / pyshark
